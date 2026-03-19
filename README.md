@@ -14,6 +14,8 @@ Feel free to join us on Discord at the [**Eidolon Server**](https://discord.com/
 This guide is intended for all skill levels: both beginners and players who want to invest more deeply.\
 Its goal is to help you understand the basic mechanics if you play casually, as well as support players who want to get into speedrunning and improve their times.
 
+Testing Github syncing
+
 
 
 ## **QUICK MENU**
